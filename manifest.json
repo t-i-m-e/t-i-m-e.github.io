@@ -1,0 +1,48 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "TIME",
+    "short_name": "TIME",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://t-i-m-e.github.io/?source=pwa&footer=false",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "description": "TIME - Digital Clock",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://t-i-m-e.github.io/assets/images/icons/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://t-i-m-e.github.io/assets/images/icons/192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://t-i-m-e.github.io/assets/images/icons/1024x1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "url": "https://t-i-m-e.github.io",
+    "screenshots": [
+        {
+            "src": "https://t-i-m-e.github.io/assets/images/screenshots/1280x800.png",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "https://t-i-m-e.github.io/assets/images/screenshots/750x1334.png",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ]
+}
